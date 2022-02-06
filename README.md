@@ -10,9 +10,7 @@
     * [**III**](#Part-III:-Data-exploring): Data exploring
     * [**IV**](#Part-IV:-Conclusion): Conclusion
 4. [**Operation**](#Operation)
-5. [**Discussion-imbalanced dataset**](#Discussion-imbalanced-dataset)
-6. [**Reference**](#Reference)
-7. [**License**](#License)
+5. [**License**](#License)
 
 ----------------------------------------------------------------------------------------------------------------------------
 ## Installation:
