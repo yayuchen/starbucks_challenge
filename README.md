@@ -193,6 +193,8 @@ In order to understand and find out the **preference of offers for existed custo
  * Whether viewed or not, **discount type** seems more attractive than bogo type.
  * For customers who had **viewed and completed** pattern, it seemed like they prefer to accomplish **less difficulty and lower reward** offers.
  * For those who **completed offers without viewed**, because they did not view, so they would not know about any details of offer. Therefore, the only factor for these customers still had chance to accomplish is **longer duration for some difficult offers**. 
+ 
+ #### All findings can be found in this [post](https://yayuchen1023.medium.com/who-loves-starbucks-more-1fc470a59156)
 
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
